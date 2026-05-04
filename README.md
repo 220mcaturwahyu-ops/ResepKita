@@ -1,2 +1,2 @@
 # ResepKita
-Aplikqsi Resep dengan React Native &amp; Expo
+Aplikasi Resep dengan React Native &amp; Expo
