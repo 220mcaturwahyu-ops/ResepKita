@@ -5,8 +5,3 @@ UTS Pemrograman Mobile Lanjut - ResepKita 🍳Aplikasi ResepKita adalah platform
 ├── context/      # Global state (Favorites)
 ├── navigation/   # Konfigurasi Stack & Tab Navigation
 └── screens/      # Tampilan utama (Home, Detail, Search, dll)
-Gunakan kode dengan hati-hati.💻 Cara Menjalankan ProjectClone Repository:bashgit clone https://github.com
-cd ResepKita-UTS
-Gunakan kode dengan hati-hati.Install Dependencies:bashnpm install
-Gunakan kode dengan hati-hati.Jalankan Aplikasi:bashnpx expo start
-Gunakan kode dengan hati-hati.Buka di Perangkat:Scan QR Code menggunakan aplikasi Expo Go (Android/iOS).Atau tekan a untuk emulator Android atau i untuk simulator iOS.📝 Catatan Implementasi UTSState Management: Menggunakan RecipeContext untuk mengelola data favorit sehingga sinkron antara layar Detail dan Favorites.Validasi Input: Pada layar Search, tombol cari hanya akan berfungsi jika input pengguna mencapai minimal 3 karakter.Handling API: Dilengkapi dengan Loading Indicator saat pengambilan data dan penanganan jika data kosong
